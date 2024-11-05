@@ -1,0 +1,21 @@
+body{
+    background-color:orange;
+}
+.poster{
+    width:100%;
+    border:5px solid red;
+    margin:0;
+}
+.My{
+    width:50%;
+    margin-top:50px;
+    margin-left:25%;
+    font-family:"Rubik Wet Paint", serif;
+    text-align: center;
+}
+.second{
+    border:3px solid red;
+    padding:10px;
+    text-align: center;
+    font-family:"Playwrite GB S", serif;
+}
